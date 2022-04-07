@@ -19,6 +19,6 @@
 	//Melee (Sword) Units
 	{
 		"name": "Tribal Defender",
-		"unitType": "Sword"
+		"unitType": "Sword",
 	}
 ]
