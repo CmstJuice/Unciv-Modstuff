@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mounted Ranged",
+        "movementType": "Land"
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water",
+		"uniques": ["Can move after attacking"]
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to others"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "6 tiles in every direction always visible"]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Ignores Zone of Control","Can pass through impassable tiles","Unable to capture cities"]
+    }
+]
