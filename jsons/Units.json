@@ -1,24 +1,3 @@
 [
-	
-	// Civilian Land Units
-	{
-		"name": "Worker",
-		"unitType": "Civilian",
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles"],
-		"cost": 55
-	},
-	{
-		"name": "Settler",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 87,
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction", "Requires at least [2] population"]
-	},
-	
-	//Melee (Sword) Units
-	{
-		"name": "Tribal Defender",
-		"unitType": "Sword",
-	}
+	{}
 ]
