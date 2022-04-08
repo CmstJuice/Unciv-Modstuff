@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mountain Civilisation",
+    "startBias": ["[Tundra]", "Avoid [Desert"],
+    
+    "declaringWar": "Our mountain gods wanted conquest and sacrifice. It is time for you to be destroyed",
+    "attacked": "Fight us! We'll not stop until we win!",
+    "defeated": "It appears that our gods have not supported us. We'll now give our civilisation to you.",
+    "introduction": "Hello! We are the people of the mountains!",
+    
+    "neutralHello": "Greetings, friend!",
+    "hateHello": "Now what?",
+    "tradeRequest": "It would be a pleasure if we trade goods toghether.",
+    
+    "innerColor": [255,255,255],
+    "outerColor": [110,110,110],
+    
+    "uniqueName": "Mining Tradition",
+    "uniques": ["Double quantity of [Iron] produced", "Double quantity of [Uranium] produced", "Double quantity of [Stone] produced", "Double quantity of [Coal] produced"],
+    "Cities": ["Alpa", "Pierus", "Uralia", "Himalaya", "Andesia", "Rockusus", "Caucasus", "Alaskai"] // I can't think of good city names help
+  }
+]
